@@ -1,0 +1,7 @@
+Pillow
+moviepy
+requests
+numpy
+openai
+diffusers
+torch
